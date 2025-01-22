@@ -435,4 +435,324 @@
 \i (00:03:07) QtSignal ViewerPanePanel ViewerPaneLayer1All clicked true
 \i (00:03:07) QtSignal ViewerPanePanel ViewerPaneLayer1All clicked false
 \i (00:03:08) QtSignal ViewerPanePanel ViewerPaneLayer0All clicked false
-\i (00:03:08) QtSignal ViewerPanePanel ViewerPaneLa
+\i (00:03:08) QtSignal ViewerPanePanel ViewerPaneLayer0All clicked true
+\i (00:03:09) QtSignal ViewerPanePanel ViewerPaneLayer0All clicked false
+\i (00:03:09) QtSignal ViewerPanePanel ViewerPaneLayer0All clicked true
+\i (00:03:11) QtSignal ViewerPanePanel ViewerPaneLayer8All clicked false
+\i (00:03:11) QtSignal ViewerPanePanel ViewerPaneLayer8All clicked true
+\i (00:03:12) QtSignal ViewerPanePanel ViewerPaneLayer8All clicked false
+\i (00:03:12) QtSignal ViewerPanePanel ViewerPaneLayer8All clicked true
+\i (00:03:13) QtSignal ViewerPanePanel ViewerPaneLayer6All clicked false
+\i (00:03:13) QtSignal ViewerPanePanel ViewerPaneLayer7All clicked false
+\i (00:03:13) QtSignal ViewerPanePanel ViewerPaneLayer5All clicked false
+\i (00:03:14) QtSignal ViewerPanePanel ViewerPaneLayer4All clicked false
+\i (00:03:14) QtSignal ViewerPanePanel ViewerPaneLayer3All clicked false
+\i (00:03:15) QtSignal ViewerPanePanel ViewerPaneLayer2All clicked false
+\i (00:03:16) QtSignal ViewerPanePanel ViewerPaneLayer0All clicked false
+\i (00:03:17) QtSignal ViewerPanePanel ViewerPaneLayer0All clicked true
+\i (00:03:18) QtSignal ViewerPanePanel ViewerPaneLayer3All clicked true
+\i (00:03:18) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 1191 362 1191 427 0 0 -120
+\i (00:03:19) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 1191 362 1191 427 0 0 -120
+\i (00:03:19) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 693 296 693 361 0 0 120
+\i (00:03:36) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 878 268 878 333 0 0 -120
+\i (00:03:37) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 830 301 830 366 0 0 -120
+\i (00:03:37) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 775 329 775 394 0 0 -120
+\i (00:03:37) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 762 334 762 399 0 0 120
+\i (00:03:38) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 762 334 762 399 0 0 120
+\i (00:03:41) QtSignal ViewerPanePanel ViewerPaneLayer1All clicked true
+\i (00:03:41) QtSignal ViewerPanePanel ViewerPaneLayer2All clicked true
+\i (00:03:45) QtSignal ViewerPanePanelHolder ViewerPanePanel keyPressEvent 16777248 33554432 false +
+\i (00:03:45) QtSignal 1
+\i (00:03:45) QtSignal ViewerPanePanelHolder ViewerPanePanel keyPressEvent 16777250 33554432 false +
+\i (00:03:45) QtSignal 1
+\i (00:03:47) QtSignal ViewerPanePanelHolder ViewerPanePanel keyPressEvent 16777248 33554432 false +
+\i (00:03:47) QtSignal 1
+\i (00:03:47) QtSignal ViewerPanePanelHolder ViewerPanePanel keyPressEvent 16777250 33554432 false +
+\i (00:03:47) QtSignal 1
+\i (00:04:31) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 1162 514 1162 579 1 1 +
+\i (00:04:31) QtSignal 0 7079.13 -1974.61 -2.44727
+\i (00:04:32) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 1162 514 1162 579 1 +
+\i (00:04:32) QtSignal 0 0 7079.13 -1974.61 -2.44727
+\i (00:04:32) QtSignal pcb3dViewer pcb3dViewerCanvas keyPressEvent 16777250 0 false 1
+\i (00:11:38) zoom out 1 
+\i (00:11:38) setwindow pcb
+\i (00:11:38) zoom out 25.7512 0.5393
+\i (00:11:38) trapsize 10961
+\i (00:11:39) zoom out 1 
+\i (00:11:39) setwindow pcb
+\i (00:11:39) zoom out 7.9941 8.2121
+\i (00:11:39) trapsize 21922
+\i (00:11:39) zoom in 1 
+\i (00:11:39) setwindow pcb
+\i (00:11:39) zoom in -17.6458 -31.7961
+\i (00:11:39) trapsize 10961
+\i (00:11:40) zoom in 1 
+\i (00:11:40) setwindow pcb
+\i (00:11:40) zoom in 1.9655 -8.7777
+\i (00:11:40) trapsize 5481
+\i (00:11:40) zoom in 1 
+\i (00:11:40) setwindow pcb
+\i (00:11:40) zoom in 2.0751 -8.6680
+\i (00:11:40) trapsize 2740
+\i (00:11:40) zoom out 1 
+\i (00:11:40) setwindow pcb
+\i (00:11:40) zoom out 3.9933 -4.8863
+\i (00:11:40) trapsize 5481
+\i (00:11:41) zoom out 1 
+\i (00:11:41) setwindow pcb
+\i (00:11:41) zoom out 5.3087 4.8690
+\i (00:11:41) trapsize 10961
+\i (00:11:42) zoom in 1 
+\i (00:11:42) setwindow pcb
+\i (00:11:42) zoom in 1.1434 19.1186
+\i (00:11:42) trapsize 5481
+\i (00:11:42) zoom in 1 
+\i (00:11:42) setwindow pcb
+\i (00:11:42) zoom in 1.1433 19.1186
+\i (00:11:42) trapsize 2740
+\i (00:11:43) zoom in 1 
+\i (00:11:43) setwindow pcb
+\i (00:11:43) zoom in -13.5446 3.3894
+\i (00:11:43) trapsize 1370
+\i (00:11:43) zoom in 1 
+\i (00:11:43) setwindow pcb
+\i (00:11:43) zoom in -11.8730 4.1019
+\i (00:11:43) trapsize 685
+\i (00:11:44) zoom out 1 
+\i (00:11:44) setwindow pcb
+\i (00:11:44) zoom out -11.8729 4.1019
+\i (00:11:44) trapsize 1370
+\i (00:11:44) zoom out 1 
+\i (00:11:44) setwindow pcb
+\i (00:11:44) zoom out -11.8730 4.1019
+\i (00:11:44) trapsize 2740
+\i (00:11:44) zoom out 1 
+\i (00:11:44) setwindow pcb
+\i (00:11:44) zoom out -11.8730 4.1019
+\i (00:11:44) trapsize 5481
+\i (00:11:45) zoom in 1 
+\i (00:11:45) setwindow pcb
+\i (00:11:45) zoom in 11.1456 30.4087
+\i (00:11:45) trapsize 2740
+\i (00:11:47) zoom in 1 
+\i (00:11:47) setwindow pcb
+\i (00:11:47) zoom in -2.2271 30.1895
+\i (00:11:47) trapsize 1370
+\i (00:11:48) zoom out 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom out -3.2136 29.1756
+\i (00:11:48) trapsize 2740
+\i (00:11:48) zoom in 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom in -3.2136 29.1755
+\i (00:11:48) trapsize 1370
+\i (00:11:49) zoom out 1 
+\i (00:11:49) setwindow pcb
+\i (00:11:49) zoom out -3.2136 29.1756
+\i (00:11:49) trapsize 2740
+\i (00:11:49) zoom out 1 
+\i (00:11:49) setwindow pcb
+\i (00:11:49) zoom out -3.2136 29.1755
+\i (00:11:49) trapsize 5481
+\i (00:11:53) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:11:53) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:11:53) QtSignal Collision_Detection collisionTolerance editingFinished 0
+\i (00:11:53) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:11:54) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:11:55) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
+\i (00:11:55) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:11:58) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:11:58) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:11:59) zoom in 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom in 6.2131 23.8046
+\i (00:11:59) trapsize 2740
+\i (00:11:59) zoom out 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom out 6.2131 23.8047
+\i (00:11:59) trapsize 5481
+\i (00:12:01) zoom in 1 
+\i (00:12:01) setwindow pcb
+\i (00:12:01) zoom in -7.5979 -39.9894
+\i (00:12:01) trapsize 2740
+\i (00:12:02) zoom in 1 
+\i (00:12:02) setwindow pcb
+\i (00:12:02) zoom in -7.3787 -40.4826
+\i (00:12:02) trapsize 1370
+\i (00:12:03) zoom out 1 
+\i (00:12:03) setwindow pcb
+\i (00:12:03) zoom out -7.2143 -40.1538
+\i (00:12:03) trapsize 2740
+\i (00:12:03) zoom in 1 
+\i (00:12:03) setwindow pcb
+\i (00:12:03) zoom in -7.2143 -40.1537
+\i (00:12:03) trapsize 1370
+\i (00:12:04) zoom out 1 
+\i (00:12:04) setwindow pcb
+\i (00:12:04) zoom out -7.2143 -40.1537
+\i (00:12:04) trapsize 2740
+\i (00:12:04) zoom out 1 
+\i (00:12:04) setwindow pcb
+\i (00:12:04) zoom out -7.2143 -40.1536
+\i (00:12:04) trapsize 5481
+\i (00:12:05) zoom in 1 
+\i (00:12:05) setwindow pcb
+\i (00:12:05) zoom in 1.9932 11.4735
+\i (00:12:05) trapsize 2740
+\i (00:12:06) zoom out 1 
+\i (00:12:06) setwindow pcb
+\i (00:12:06) zoom out 1.9932 11.5283
+\i (00:12:06) trapsize 5481
+\i (00:12:07) zoom in 1 
+\i (00:12:07) setwindow pcb
+\i (00:12:07) zoom in 1.9933 24.6818
+\i (00:12:07) trapsize 2740
+\i (00:12:07) zoom in 1 
+\i (00:12:07) setwindow pcb
+\i (00:12:07) zoom in 1.9933 23.9145
+\i (00:12:07) trapsize 1370
+\i (00:12:07) zoom in 1 
+\i (00:12:07) setwindow pcb
+\i (00:12:07) zoom in 1.9934 23.9145
+\i (00:12:07) trapsize 685
+\i (00:12:09) zoom in 1 
+\i (00:12:09) setwindow pcb
+\i (00:12:09) zoom in 5.1585 17.2145
+\i (00:12:09) trapsize 343
+\i (00:12:09) zoom out 1 
+\i (00:12:09) setwindow pcb
+\i (00:12:09) zoom out 5.1585 17.2145
+\i (00:12:09) trapsize 685
+\i (00:12:09) zoom out 1 
+\i (00:12:09) setwindow pcb
+\i (00:12:09) zoom out 5.1586 17.2146
+\i (00:12:09) trapsize 1370
+\i (00:12:09) zoom out 1 
+\i (00:12:09) setwindow pcb
+\i (00:12:09) zoom out 5.1585 17.2146
+\i (00:12:09) trapsize 2740
+\i (00:12:11) zoom out 1 
+\i (00:12:11) setwindow pcb
+\i (00:12:11) zoom out 1.3770 28.5046
+\i (00:12:11) trapsize 5481
+\i (00:12:12) zoom in 1 
+\i (00:12:12) setwindow pcb
+\i (00:12:12) zoom in -0.5960 30.3680
+\i (00:12:12) trapsize 2740
+\i (00:12:13) zoom in 1 
+\i (00:12:13) setwindow pcb
+\i (00:12:13) zoom in 7.6249 11.8436
+\i (00:12:13) trapsize 1370
+\i (00:12:13) zoom in 1 
+\i (00:12:13) setwindow pcb
+\i (00:12:13) zoom in 7.6249 11.8437
+\i (00:12:13) trapsize 685
+\i (00:12:14) zoom in 1 
+\i (00:12:14) setwindow pcb
+\i (00:12:14) zoom in 4.5010 17.6668
+\i (00:12:14) trapsize 343
+\i (00:12:15) zoom out 1 
+\i (00:12:15) setwindow pcb
+\i (00:12:15) zoom out 4.0283 19.0850
+\i (00:12:15) trapsize 685
+\i (00:12:15) zoom out 1 
+\i (00:12:15) setwindow pcb
+\i (00:12:15) zoom out 4.0284 19.0850
+\i (00:12:15) trapsize 1370
+\i (00:12:15) zoom out 1 
+\i (00:12:15) setwindow pcb
+\i (00:12:15) zoom out 4.0285 19.0849
+\i (00:12:15) trapsize 2740
+\i (00:12:15) zoom out 1 
+\i (00:12:15) setwindow pcb
+\i (00:12:15) zoom out 3.8092 16.0158
+\i (00:12:16) trapsize 5481
+\i (00:12:17) zoom in 1 
+\i (00:12:17) setwindow pcb
+\i (00:12:17) zoom in -6.3847 -10.5102
+\i (00:12:17) trapsize 2740
+\i (00:12:18) zoom in 1 
+\i (00:12:18) setwindow pcb
+\i (00:12:18) zoom in -11.3172 -10.9487
+\i (00:12:18) trapsize 1370
+\i (00:12:19) zoom out 1 
+\i (00:12:19) setwindow pcb
+\i (00:12:19) zoom out -11.0980 -11.1405
+\i (00:12:19) trapsize 2740
+\i (00:12:19) zoom out 1 
+\i (00:12:19) setwindow pcb
+\i (00:12:19) zoom out -11.0979 -11.1405
+\i (00:12:19) trapsize 5481
+\i (00:12:19) zoom out 1 
+\i (00:12:19) setwindow pcb
+\i (00:12:19) zoom out -11.0979 -11.1405
+\i (00:12:19) trapsize 10961
+\i (00:12:19) zoom in 1 
+\i (00:12:19) setwindow pcb
+\i (00:12:19) zoom in -80.4629 -11.1405
+\i (00:12:19) trapsize 5481
+\i (00:12:19) zoom in 1 
+\i (00:12:19) setwindow pcb
+\i (00:12:19) zoom in -80.4629 -11.1405
+\i (00:12:19) trapsize 2740
+\i (00:12:20) zoom out 1 
+\i (00:12:20) setwindow pcb
+\i (00:12:20) zoom out -50.7034 -5.9888
+\i (00:12:20) trapsize 5481
+\i (00:12:20) zoom out 1 
+\i (00:12:20) setwindow pcb
+\i (00:12:20) zoom out -50.7032 -5.9887
+\i (00:12:20) trapsize 10961
+\i (00:12:20) zoom out 1 
+\i (00:12:20) setwindow pcb
+\i (00:12:20) zoom out -50.7033 -5.9887
+\i (00:12:20) trapsize 21922
+\i (00:12:20) zoom in 1 
+\i (00:12:20) setwindow pcb
+\i (00:12:20) zoom in -43.5141 -17.7659
+\i (00:12:20) trapsize 10961
+\i (00:12:21) zoom in 1 
+\i (00:12:21) setwindow pcb
+\i (00:12:21) zoom in -5.9265 -3.7356
+\i (00:12:21) trapsize 5481
+\i (00:12:21) zoom in 1 
+\i (00:12:21) setwindow pcb
+\i (00:12:21) zoom in -5.7073 -6.9143
+\i (00:12:21) trapsize 2740
+\i (00:12:22) zoom in 1 
+\i (00:12:22) setwindow pcb
+\i (00:12:22) zoom in -7.6255 -7.8460
+\i (00:12:22) trapsize 1370
+\i (00:12:23) slide 
+\t (00:12:23) Pick element to slide.
+\i (00:12:24) pick grid -10.8865 -7.4898
+\t (00:12:24) last pick:  -10.8900 -7.4900
+\t (00:12:24) last pick:  -10.9900 -7.4898
+\t (00:12:24) Waiting for the destination pick.
+\i (00:12:24) pick grid -12.0648 -7.6816
+\t (00:12:24) last pick:  -12.0600 -7.6800
+\t (00:12:24) No DRC errors detected.
+\t (00:12:24) Pick another element to slide.
+\i (00:12:25) zoom out 1 
+\i (00:12:25) setwindow pcb
+\i (00:12:25) zoom out -11.1057 -8.4763
+\i (00:12:25) trapsize 2740
+\i (00:12:25) zoom out 1 
+\i (00:12:25) setwindow pcb
+\i (00:12:25) zoom out -11.1056 -8.4762
+\i (00:12:25) trapsize 5481
+\i (00:12:25) zoom in 1 
+\i (00:12:25) setwindow pcb
+\i (00:12:25) zoom in -2.0079 -12.6414
+\i (00:12:25) trapsize 2740
+\i (00:12:26) prepopup 12.4061 -3.5985
+\i (00:12:26) done 
+\i (00:12:27) generaledit 
+\i (00:12:27) pick grid 19.8597 1.9917
+\t (00:12:27) last pick:  19.8600 1.9900
+\i (00:12:27) save 
+\i (00:12:28) fillin yes 
+\i (00:12:29) generaledit 
+\i (00:12:29) exit 
+\i (00:12:29) QtSignal pcb3dViewer pcb3dViewer closed
+\t (00:12:30)     Journal end - Wed Jan 22 16:06:22 2025
