@@ -1,0 +1,115 @@
+\t (00:00:01) allegro 17.4 P001 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Wed Jan 22 15:29:24 2025
+\t (00:00:01)         Host=DESKTOP-OLN9DLP User=Admin Pid=19780 CPUs=8
+\t (00:00:01) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe D:\Allegro\Project\CanhMai\PCB_USB_DoAn2\pcb_doan2.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged pcb_doan2
+\d (00:00:04) Design opened: D:/Allegro/Project/CanhMai/PCB_USB_DoAn2/pcb_doan2.brd
+\i (00:00:04) trapsize 6853
+\i (00:00:04) trapsize 7068
+\i (00:00:04) trapsize 5481
+\i (00:00:04) trapsize 5481
+\i (00:00:05) generaledit 
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out -7.1325 15.6661
+\i (00:00:05) trapsize 10961
+\i (00:00:07) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:00:07) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -23.9033 27.7233
+\i (00:00:08) trapsize 5481
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 16.6531 22.9004
+\i (00:00:08) trapsize 10961
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 16.8722 22.9004
+\i (00:00:09) trapsize 5481
+\i (00:05:16) zoom out 1 
+\i (00:05:16) setwindow pcb
+\i (00:05:16) zoom out 3.8285 -8.6678
+\i (00:05:16) trapsize 10961
+\i (00:05:17) zoom in 1 
+\i (00:05:17) setwindow pcb
+\i (00:05:17) zoom in 4.7053 10.8431
+\i (00:05:17) trapsize 5481
+\i (00:06:30) xNet Uart0_Esp_Tx 
+\i (00:06:30) xname_flush 
+\i (00:06:31) trapsize 4556
+\i (00:06:31) xNet Uart0_Esp_Tx 
+\i (00:06:31) xname_flush '!' 
+\i (00:06:31) trapsize 4556
+\i (00:06:31) xNet Uart0_Esp_Tx 
+\i (00:06:31) xname_flush 
+\i (00:06:31) trapsize 4556
+\i (00:06:32) xNet Uart0_Esp_Tx 
+\i (00:06:32) xname_flush '!' 
+\i (00:06:32) trapsize 4556
+\i (00:06:32) xNet Uart0_Esp_Rx 
+\i (00:06:32) xname_flush 
+\i (00:06:32) trapsize 2275
+\i (00:06:32) xNet Uart0_Esp_Rx 
+\i (00:06:32) xname_flush '!' 
+\i (00:06:32) trapsize 2275
+\i (00:06:32) xNet Uart0_Esp_Rx 
+\i (00:06:32) xname_flush 
+\i (00:06:32) trapsize 2275
+\i (00:06:33) xNet Uart0_Esp_Rx 
+\i (00:06:33) xname_flush '!' 
+\i (00:06:33) trapsize 2275
+\i (00:06:33) xNet Usb_D- 
+\i (00:06:33) xname_flush 
+\i (00:06:33) trapsize 108
+\i (00:06:34) xNet Usb_D- 
+\i (00:06:34) xname_flush '!' 
+\i (00:06:34) trapsize 108
+\i (00:06:34) xNet Usb_D- 
+\i (00:06:34) xname_flush 
+\i (00:06:34) trapsize 108
+\i (00:06:35) xNet Usb_D- 
+\i (00:06:35) xname_flush '!' 
+\i (00:06:35) trapsize 108
+\i (00:06:35) xNet Usb_D+ 
+\i (00:06:35) xname_flush 
+\i (00:06:35) trapsize 108
+\i (00:08:56) zoom out 1 
+\i (00:08:56) setwindow pcb
+\i (00:08:56) zoom out 2.2494 3.2994
+\i (00:08:56) trapsize 217
+\i (00:08:56) zoom out 1 
+\i (00:08:56) setwindow pcb
+\i (00:08:56) zoom out 2.2495 3.2994
+\i (00:08:56) trapsize 434
+\i (00:08:57) zoom out 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom out 2.2408 3.4470
+\i (00:08:57) trapsize 868
+\i (00:08:57) zoom out 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom out 2.2407 3.4470
+\i (00:08:57) trapsize 1735
+\i (00:08:57) zoom out 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom out 2.2407 3.4469
+\i (00:08:57) trapsize 3470
+\i (00:08:57) zoom out 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom out -2.4787 5.2514
+\i (00:08:57) trapsize 6940
+\i (00:08:57) zoom out 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom out -2.4787 5.2514
+\i (00:08:57) trapsize 13881
+\i (00:08:59) open 
+\i (00:09:12) fillin "menu_cancel"
+\i (00:09:12) generaledit 
+\i (00:09:19) open 
+\i (00:09:20) fillin "menu_cancel"
+\i (00:09:21) generaledit 
+\i (00:09:26) exit 
+\t (00:09:26)     Journal end - Wed Jan 22 15:38:49 2025

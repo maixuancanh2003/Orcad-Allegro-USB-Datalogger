@@ -1,0 +1,438 @@
+\t (00:00:01) allegro 17.4 P001 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Wed Jan 22 15:53:53 2025
+\t (00:00:01)         Host=DESKTOP-OLN9DLP User=Admin Pid=11496 CPUs=8
+\t (00:00:01) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe D:\Allegro\Project\CanhMai\PCB_USB_DoAn2\pcb_doan2.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:01) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged pcb_doan2
+\d (00:00:01) Design opened: D:/Allegro/Project/CanhMai/PCB_USB_DoAn2/pcb_doan2.brd
+\i (00:00:01) trapsize 6853
+\i (00:00:01) trapsize 7068
+\i (00:00:01) trapsize 5481
+\i (00:00:01) trapsize 5481
+\i (00:00:02) generaledit 
+\i (00:00:04) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: ASB"
+\i (00:00:04) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: ASB"
+\i (00:00:06) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: AST"
+\i (00:00:06) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: AST"
+\i (00:00:08) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SST"
+\i (00:00:08) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SST"
+\i (00:00:10) 3d 
+\i (00:00:12) generaledit 
+\i (00:00:12) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 1223 416 1223 481 1 1 +
+\i (00:00:12) QtSignal 0 2517.58 2414.95 -189.052
+\i (00:00:12) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 1224 417 1224 482 1 +
+\i (00:00:12) QtSignal 0 0 2524.84 2417.37 -194.975
+\i (00:00:13) QtSignal pcb3dViewer pcb3dViewerCanvas keyPressEvent 56 536870912 false 1 8
+\i (00:00:14) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 1221 420 1221 485 0 0 -120
+\i (00:00:14) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 1221 420 1221 485 0 0 -120
+\i (00:00:14) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 1221 420 1221 485 0 0 -120
+\i (00:00:14) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 805 214 805 279 0 0 120
+\i (00:00:34) QtSignal pcb3dViewer pcb3dViewerCanvas keyPressEvent 16777251 134217728 false 1
+\i (00:00:35) QtSignal pcb3dViewer pcb3dViewerCanvas keyPressEvent 16777251 134217728 false 1
+\i (00:00:37) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in -8.3382 -33.6592
+\i (00:00:37) trapsize 2740
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in -8.3383 -33.6592
+\i (00:00:37) trapsize 1370
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in -11.6814 -32.1794
+\i (00:00:38) trapsize 685
+\i (00:00:41) add text 
+\t (00:00:41) Pick text location.
+\i (00:00:43) pick grid -15.4356 -32.9056
+\t (00:00:43) last pick:  -15.4400 -32.9100
+\t (00:00:43) Enter text string.
+\i (00:00:46) setwindow pcb
+\i (00:00:46) pick grid -12.1609 -32.6452
+\t (00:00:46) last pick:  -12.1600 -32.6500
+\i (00:00:46) setwindow pcb
+\i (00:00:46) pick -15.4400 -32.9100
+\t (00:00:46) Enter text string.
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out -10.1331 -31.3710
+\i (00:00:46) trapsize 1370
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out -10.1331 -31.3710
+\i (00:00:46) trapsize 2740
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in 14.5843 -32.6863
+\i (00:00:47) trapsize 1370
+\i (00:00:49) pick grid 12.8031 -32.6862
+\t (00:00:49) last pick:  12.8000 -32.6900
+\t (00:00:49) Enter text string.
+\i (00:00:56) setwindow form.mini
+\i (00:00:56) FORM mini class REF DES 
+\i (00:00:57) FORM mini subclass SILKSCREEN_TOP 
+\t (00:00:57) Pick an element to attach the text to.
+\i (00:00:58) setwindow pcb
+\i (00:00:58) pick grid 12.6387 -32.6862
+\t (00:00:58) last pick:  12.6400 -32.6900
+\w (00:00:58) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (00:00:59) pick grid 12.2003 -32.7411
+\t (00:00:59) last pick:  12.2000 -32.7400
+\w (00:00:59) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (00:01:01) add text 
+\t (00:01:02) Pick an element to attach the text to.
+\i (00:01:03) pick grid 12.0906 -32.6314
+\t (00:01:03) last pick:  12.0900 -32.6300
+\w (00:01:03) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (00:01:03) pick grid 12.3099 -32.6040
+\t (00:01:03) last pick:  12.3100 -32.6000
+\w (00:01:03) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (00:01:03) pick grid 11.8988 -32.6314
+\t (00:01:03) last pick:  11.9000 -32.6300
+\w (00:01:03) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (00:01:03) pick grid dbl 11.8988 -32.6314
+\t (00:01:03) last pick:  11.9000 -32.6300
+\w (00:01:03) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (00:01:04) pick grid 11.8988 -32.6314
+\t (00:01:04) last pick:  11.9000 -32.6300
+\w (00:01:04) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (00:01:04) pick grid 4.3082 -28.6306
+\t (00:01:04) last pick:  4.3100 -28.6300
+\w (00:01:04) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (00:01:05) pick grid 10.3917 -31.9738
+\t (00:01:05) last pick:  10.3900 -31.9700
+\w (00:01:05) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (00:01:08) pick grid 11.1590 -21.6703
+\t (00:01:08) last pick:  11.1600 -21.6700
+\w (00:01:08) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (00:01:12) add text 
+\t (00:01:12) Pick an element to attach the text to.
+\i (00:01:13) pick grid 4.5548 -22.7664
+\t (00:01:13) last pick:  4.5500 -22.7700
+\w (00:01:13) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (00:01:16) setwindow form.mini
+\i (00:01:16) FORM mini subcolor 0 
+\i (00:01:17) FORM mini subcolor 1 
+\i (00:01:17) FORM mini subcolor 0 
+\i (00:01:17) FORM mini subcolor 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom out 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom out 14.9680 -20.7934
+\i (00:01:19) trapsize 2740
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in 11.0767 -22.1635
+\i (00:01:19) trapsize 1370
+\i (00:01:19) pick grid 10.6109 -32.1655
+\t (00:01:19) last pick:  10.6100 -32.1700
+\w (00:01:19) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (00:01:20) pick grid 12.9401 -32.8506
+\t (00:01:20) last pick:  12.9400 -32.8500
+\w (00:01:20) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (00:01:23) pick grid 11.2138 -29.5348
+\t (00:01:23) last pick:  11.2100 -29.5300
+\t (00:01:23) Pick text location.
+\i (00:01:24) pick grid 9.4052 -32.5492
+\t (00:01:24) last pick:  9.4100 -32.5500
+\t (00:01:24) Enter text string.
+\i (00:01:25) setwindow pcb
+\i (00:01:25) pick grid 10.0628 -32.9602
+\t (00:01:25) last pick:  10.0600 -32.9600
+\t (00:01:25) Enter text string.
+\i (00:01:26) setwindow pcb
+\i (00:01:26) pick grid 10.6383 -32.6314
+\t (00:01:26) last pick:  10.6400 -32.6300
+\t (00:01:26) Enter text string.
+\i (00:01:31) setwindow pcb
+\i (00:01:31) pick grid -7.5298 -31.3434
+\t (00:01:31) last pick:  -7.5300 -31.3400
+\i (00:01:31) setwindow pcb
+\i (00:01:31) pick 10.6400 -32.6300
+\w (00:01:31) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (00:01:32) pick grid -8.9822 -31.6997
+\t (00:01:32) last pick:  -8.9800 -31.7000
+\w (00:01:32) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (00:01:33) zoom in 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom in 13.5704 -34.8236
+\i (00:01:33) trapsize 685
+\i (00:01:33) zoom in 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom in 13.5704 -34.8236
+\i (00:01:33) trapsize 343
+\i (00:01:34) zoom out 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom out 11.6659 -32.6313
+\i (00:01:34) trapsize 685
+\i (00:01:34) zoom out 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom out 11.6660 -32.6313
+\i (00:01:34) trapsize 1370
+\i (00:01:37) pick grid -11.5443 -31.6449
+\t (00:01:37) last pick:  -11.5400 -31.6400
+\t (00:01:37) Pick text location.
+\i (00:01:37) pick grid -9.0506 -32.0833
+\t (00:01:37) last pick:  -9.0500 -32.0800
+\t (00:01:37) Enter text string.
+\i (00:01:40) setwindow pcb
+\i (00:01:40) prepopup -1.8436 -30.9324
+\i (00:01:41) done 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) pick -9.0500 -32.0800
+\i (00:01:41) setwindow pcb
+\i (00:01:41) generaledit 
+\i (00:01:42) delete 
+\i (00:01:43) pick grid -14.7230 -32.5492
+\t (00:01:43) last pick:  -14.7200 -32.5500
+\t (00:01:43) Text "Rst"
+\i (00:01:43) pick grid dbl -14.7230 -32.5218
+\t (00:01:43) last pick:  -14.7200 -32.5200
+\i (00:01:45) move 
+\t (00:01:45) Select element(s) to move.
+\i (00:01:46) pick grid -8.3107 -31.4256
+\t (00:01:46) last pick:  -8.3100 -31.4300
+\t (00:01:46) last pick:  -9.0500 -32.0800
+\t (00:01:46) Pick new location for the element(s).
+\i (00:01:47) pick grid -14.2572 -32.8780
+\t (00:01:47) last pick:  -14.2600 -32.8800
+\i (00:01:48) pick grid 11.8304 -32.5218
+\t (00:01:48) last pick:  11.8300 -32.5200
+\t (00:01:48) last pick:  10.6400 -32.6300
+\t (00:01:48) Pick new location for the element(s).
+\i (00:01:49) pick grid 12.5977 -32.9054
+\t (00:01:49) last pick:  12.6000 -32.9100
+\i (00:01:50) prepopup 18.1057 -30.1651
+\i (00:01:50) done 
+\i (00:01:51) generaledit 
+\i (00:01:52) 3d 
+\i (00:01:53) generaledit 
+\i (00:01:56) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 991 524 991 589 1 1 0 +
+\i (00:01:56) QtSignal 3727.81 -1873.75 -2.44727
+\i (00:01:56) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 991 523 991 588 1 0 +
+\i (00:01:56) QtSignal 0 3727.81 -1860.78 -2.44727
+\i (00:01:59) QtSignal ViewerPanePanel ViewerPaneLayer1All clicked true
+\i (00:01:59) QtSignal ViewerPanePanel ViewerPaneLayer1All clicked false
+\i (00:02:00) QtSignal ViewerPanePanel ViewerPaneLayer1All clicked true
+\i (00:02:00) QtSignal ViewerPanePanel ViewerPaneLayer1All clicked false
+\i (00:02:02) QtSignal ViewerPanePanel ViewerPaneLayer0All clicked false
+\i (00:02:02) QtSignal ViewerPanePanel ViewerPaneLayer0All clicked true
+\i (00:02:04) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:02:04) zoom out 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom out 15.4202 -24.7667
+\i (00:02:04) trapsize 2740
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 14.9818 -25.0956
+\i (00:02:05) trapsize 5481
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 5.5552 -27.5070
+\i (00:02:05) trapsize 10961
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 5.5552 -27.5070
+\i (00:02:05) trapsize 21922
+\i (00:02:06) zoom in 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom in 30.5832 52.3854
+\i (00:02:06) trapsize 10961
+\i (00:02:06) zoom in 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom in -19.7375 44.2741
+\i (00:02:06) trapsize 5481
+\i (00:02:07) color192 
+\i (00:02:08) generaledit 
+\i (00:02:13) QtSignal CVDLayerContainer CVDFilterLayerEntry editingFinished SILK
+\i (00:02:13) QtSignal CVDLayerTable VertHeader clickedButton 1
+\i (00:02:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:02:14) QtSignal CVDLayerTable VertHeader clickedButton 0
+\i (00:02:14) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:02:15) QtSignal CVDLayerTable VertHeader clickedButton 0
+\i (00:02:15) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:02:15) QtSignal CVDLayerTable VertHeader clickedButton 1
+\i (00:02:15) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:02:19) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:02:19) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:02:20) zoom out 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom out -55.5805 28.4902
+\i (00:02:20) trapsize 10961
+\i (00:02:20) zoom in 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom in -8.3380 7.0063
+\i (00:02:20) trapsize 5481
+\i (00:02:21) prepopup 26.9569 13.5830
+\i (00:02:21) pick grid 19.3937 21.9135
+\t (00:02:21) last pick:  19.3900 21.9100
+\i (00:02:22) 3d 
+\i (00:02:24) generaledit 
+\i (00:02:24) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 1223 598 1223 663 1 1 +
+\i (00:02:24) QtSignal 0 2957.74 1974.8 -1267.21
+\i (00:02:25) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 1223 599 1223 664 1 +
+\i (00:02:25) QtSignal 0 0 2960.16 1972.38 -1273.14
+\i (00:02:25) QtSignal pcb3dViewer pcb3dViewerCanvas keyPressEvent 56 536870912 false 1 8
+\i (00:02:26) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 775 476 775 541 0 0 -120
+\i (00:02:27) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 754 303 754 368 0 0 -120
+\i (00:02:27) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 754 303 754 368 0 0 -120
+\i (00:02:28) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 751 629 751 694 0 0 120
+\i (00:02:28) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 751 629 751 694 0 0 120
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 776 724 776 789 0 0 120
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 776 724 776 789 0 0 120
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 776 724 776 789 4 4 0 +
+\i (00:02:29) QtSignal 424.297 -2318.98 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.297 -2318.98 -2.44727 424.297 +
+\i (00:02:29) QtSignal -2312.34 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.297 -2319 -2.44727 411.006 +
+\i (00:02:29) QtSignal -2305.71 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.315 -2319.03 -2.44727 417.67 +
+\i (00:02:29) QtSignal -2292.47 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.325 -2319.1 -2.44727 411.034 +
+\i (00:02:29) QtSignal -2305.82 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.344 -2319.14 -2.44727 417.699 +
+\i (00:02:29) QtSignal -2299.21 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.353 -2319.19 -2.44727 411.063 +
+\i (00:02:29) QtSignal -2285.98 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.372 -2319.27 -2.44727 424.372 +
+\i (00:02:29) QtSignal -2299.35 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.372 -2319.33 -2.44727 417.727 +
+\i (00:02:29) QtSignal -2279.48 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.382 -2319.43 -2.44727 424.382 +
+\i (00:02:29) QtSignal -2279.58 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.382 -2319.53 -2.44727 424.382 +
+\i (00:02:29) QtSignal -2226.56 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.382 -2319.78 -2.44727 424.382 +
+\i (00:02:29) QtSignal -2260 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.382 -2319.93 -2.44727 424.382 +
+\i (00:02:29) QtSignal -2200.39 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.382 -2320.24 -2.44727 424.382 +
+\i (00:02:29) QtSignal -2267.11 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.382 -2320.38 -2.44727 431.027 +
+\i (00:02:29) QtSignal -2200.84 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.372 -2320.69 -2.44727 431.018 +
+\i (00:02:29) QtSignal -2260.92 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.363 -2320.85 -2.44727 431.008 +
+\i (00:02:29) QtSignal -2267.72 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.353 -2320.99 -2.44727 437.644 +
+\i (00:02:29) QtSignal -2261.22 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.334 -2321.15 -2.44727 464.206 +
+\i (00:02:29) QtSignal -2181.68 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.277 -2321.51 -2.44727 444.212 +
+\i (00:02:29) QtSignal -2241.81 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.248 -2321.72 -2.44727 424.248 +
+\i (00:02:29) QtSignal -2321.72 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.248 -2321.72 -2.44727 444.184 +
+\i (00:02:29) QtSignal -2235.38 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.219 -2321.94 -2.44727 444.155 +
+\i (00:02:29) QtSignal -2242.25 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.191 -2322.15 -2.44727 444.127 +
+\i (00:02:29) QtSignal -2242.45 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.162 -2322.36 -2.44727 444.098 +
+\i (00:02:29) QtSignal -2249.3 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.133 -2322.55 -2.44727 444.069 +
+\i (00:02:29) QtSignal -2249.49 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.105 -2322.74 -2.44727 444.04 +
+\i (00:02:29) QtSignal -2256.32 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424.076 -2322.91 -2.44727 477.238 +
+\i (00:02:29) QtSignal -2196.73 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 424 -2323.24 -2.44727 443.935 +
+\i (00:02:29) QtSignal -2263.47 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 423.97 -2323.4 -2.44727 457.197 +
+\i (00:02:29) QtSignal -2203.85 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 423.923 -2323.71 -2.44727 443.859 +
+\i (00:02:29) QtSignal -2263.94 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 423.894 -2323.86 -2.44727 430.539 +
+\i (00:02:29) QtSignal -2277.37 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 423.885 -2323.99 -2.44727 430.53 +
+\i (00:02:29) QtSignal -2284.14 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 423.875 -2324.09 -2.44727 443.811 +
+\i (00:02:29) QtSignal -2251.03 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 423.846 -2324.28 -2.44727 430.492 +
+\i (00:02:29) QtSignal -2291.07 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 423.836 -2324.37 -2.44727 430.482 +
+\i (00:02:29) QtSignal -2304.44 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 423.827 -2324.42 -2.44727 423.827 +
+\i (00:02:29) QtSignal -2311.14 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 423.827 -2324.45 -2.44727 423.827 +
+\i (00:02:29) QtSignal -2311.17 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 423.827 -2324.49 -2.44727 430.472 +
+\i (00:02:29) QtSignal -2317.85 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 423.817 -2324.5 -2.44727 423.817 +
+\i (00:02:29) QtSignal -2317.86 -2.44727
+\i (00:02:29) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent 423.817 -2324.52 -2.44727 423.817 +
+\i (00:02:29) QtSignal -2317.88 -2.44727
+\i (00:02:30) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 826 403 826 468 4 0 +
+\i (00:02:30) QtSignal 0 423.817 -2324.54 -2.44727
+\i (00:02:31) QtSignal ViewerPanePanel ViewerPaneLayer1All clicked true
+\i (00:02:31) QtSignal ViewerPanePanel ViewerPaneLayer1All clicked false
+\i (00:02:32) QtSignal ViewerPanePanel ViewerPaneLayer0All clicked false
+\i (00:02:32) QtSignal ViewerPanePanel ViewerPaneLayer0All clicked true
+\i (00:02:52) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 1336 209 1336 274 0 0 -120
+\i (00:02:53) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 1051 205 1051 270 0 0 -360
+\i (00:02:53) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 976 205 976 270 0 0 -120
+\i (00:02:53) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 976 205 976 270 0 0 -120
+\i (00:02:53) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 780 278 780 343 0 0 120
+\i (00:02:53) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 780 278 780 343 0 0 120
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 613 144 613 209 0 0 120
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 653 84 653 149 4 4 0 +
+\i (00:02:54) QtSignal -1249.61 3539.56 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1249.61 3539.56 -2.44727 -1230.5 +
+\i (00:02:54) QtSignal 3539.56 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1249.64 3539.56 -2.44727 -1230.52 +
+\i (00:02:54) QtSignal 3539.56 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1249.67 3539.56 -2.44727 -1211.43 +
+\i (00:02:54) QtSignal 3501.35 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1249.72 3539.66 -2.44727 -1154.14 +
+\i (00:02:54) QtSignal 3386.81 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1249.86 3540.06 -2.44727 -1211.63 +
+\i (00:02:54) QtSignal 3406.32 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1249.91 3540.4 -2.44727 -1173.45 +
+\i (00:02:54) QtSignal 3311.14 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1250.03 3541 -2.44727 -1211.79 +
+\i (00:02:54) QtSignal 3426.37 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1250.08 3541.3 -2.44727 -1230.96 +
+\i (00:02:54) QtSignal 3407.56 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1250.11 3541.65 -2.44727 -1250.11 +
+\i (00:02:54) QtSignal 3427.02 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1250.11 3541.95 -2.44727 -1250.11 +
+\i (00:02:54) QtSignal 3465.53 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1250.11 3542.15 -2.44727 -1230.99 +
+\i (00:02:54) QtSignal 3427.51 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1250.14 3542.45 -2.44727 -1250.14 +
+\i (00:02:54) QtSignal 3332.29 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1250.14 3542.99 -2.44727 -1250.14 +
+\i (00:02:54) QtSignal 3390.15 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1250.14 3543.39 -2.44727 -1250.14 +
+\i (00:02:54) QtSignal 3428.76 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1250.14 3543.69 -2.44727 -1250.14 +
+\i (00:02:54) QtSignal 3295.32 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1250.14 3544.34 -2.44727 -1250.14 +
+\i (00:02:54) QtSignal 3467.92 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1250.14 3544.54 -2.44727 -1250.14 +
+\i (00:02:54) QtSignal 3334.38 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1250.14 3545.09 -2.44727 -1250.14 +
+\i (00:02:54) QtSignal 3545.09 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1250.14 3545.09 -2.44727 -1250.14 +
+\i (00:02:54) QtSignal 3468.66 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1250.14 3545.29 -2.44727 -1250.14 +
+\i (00:02:54) QtSignal 3430.65 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1250.14 3545.59 -2.44727 -1250.14 +
+\i (00:02:54) QtSignal 3507.37 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1250.14 3545.68 -2.44727 -1250.14 +
+\i (00:02:54) QtSignal 3507.47 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent -1250.14 3545.78 -2.44727 -1250.14 +
+\i (00:02:54) QtSignal 3526.68 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 672 210 672 275 4 0 +
+\i (00:02:54) QtSignal 0 -1250.14 3545.83 -2.44727
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 695 232 695 297 0 0 120
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 696 232 696 297 0 0 120
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 696 232 696 297 0 0 120
+\i (00:02:55) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 696 232 696 297 0 0 120
+\i (00:03:07) QtSignal ViewerPanePanel ViewerPaneLayer1All clicked true
+\i (00:03:07) QtSignal ViewerPanePanel ViewerPaneLayer1All clicked false
+\i (00:03:08) QtSignal ViewerPanePanel ViewerPaneLayer0All clicked false
+\i (00:03:08) QtSignal ViewerPanePanel ViewerPaneLa
