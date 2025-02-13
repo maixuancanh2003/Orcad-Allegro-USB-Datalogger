@@ -74,10 +74,10 @@ esptool.py --chip esp32 --port /dev/ttyUSB0 write_flash -z 0x1000 firmware.bin
 ## 📸 Project Images
 | View        | Image                             |
 |-------------|-----------------------------------|
-| **Top View**    | ![Top View](Image/Top.png)    |
-| **Bottom View** | ![Bottom View](Image/Bottom.png) |
-| **Layout**    | ![FrontLeft View](Image/Layout.png) |
-| **Interface**    | ![Interface View](Image/web_local.png) |
+| **Top View**    | ![Top View](Image/Top1.png)    |
+| **Bottom View** | ![Bottom View](Image/Bottom1.png) |
+| **Layout**    | ![FrontLeft View](Image/Layout1.png) |
+| **Interface**    | ![Interface View](Image/web_local1.png) |
 
 ## 👨‍💻 Author & Contributions
 Developed by **Mai Xuan Canh** 🚀  
