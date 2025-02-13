@@ -69,7 +69,7 @@ esptool.py --chip esp32 --port /dev/ttyUSB0 write_flash -z 0x1000 firmware.bin
 ## 6. Notes
 - **Data Transfer Speed**: Optimized for USB 2.0.
 - **Noise Immunity**: Tested in high-interference environments.
-- **Power Consumption**: < 100mA in operation mode.
+- **Power Consumption**: < 150mA in operation mode.
 
 ## 📸 Project Images
 | View        | Image                             |
